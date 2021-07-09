@@ -13,7 +13,7 @@
 
 <img style="float:right" height="250" src="https://www.pdfa.org/wp-content/uploads/2019/06/DerivingHTMLfromPDF-728x1024.png" alt="Cover page of version 1.0 of Deriving HTML from PDF document">
 
-The repository is for PDF Association members of the [Responsive-PDF TWG](https://www.pdfa.org/community/responsivepdf-technical-working-group/) and [PDF Reuse TWG](https://www.pdfa.org/community/pdf-reuse-twg/) technical working groups to track work on updates to the document describing the algorithm for deriving HTML from well-tagged PDF 2.0 (as defined by [ISO 32000-2:2020](https://www.iso.org/standard/75839.html)).
+The repository is for PDF Association members of the [Deriving HTML from PDF TWG](https://www.pdfa.org/community/deriving-html-from-pdf-twg/) and [PDF Reuse TWG](https://www.pdfa.org/community/pdf-reuse-twg/) technical working groups to track work on updates to the document describing the algorithm for deriving HTML from well-tagged PDF 2.0 (as defined by [ISO 32000-2:2020](https://www.iso.org/standard/75839.html)).
 
 The [PDF Association](https://www.pdfa.org) published version 1.0 of [Deriving HTML from PDF: A usage specification for tagged ISO 32000-2 files](https://www.pdfa.org/resource/deriving-html-from-pdf/) in June 2019.
 
